@@ -24,3 +24,6 @@ The Template solution is composed of the following projects:
 7. Create the necessary classes and implementation of boilerplate code on the _Challenges_ project (inside the previous created folder).
 8. Try the challenge project by implementing the necessary code, making the tests pass and then removing it (the code).
 9. DONE! :)
+
+## Ok but how do a Student execute it all?
+Please refer to the [General Information](https://github.com/CSharpWizardry/Challenge-Template/blob/master/GeneralInstructions.md) to learn about how to setup environment, code solutions and execute tests.
