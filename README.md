@@ -15,6 +15,7 @@ The Template solution is composed of the following projects:
 * __CSharpWizardry.Level.Challenges.Solution.Tests__: Tests that default solutions against expected results;
 
 ## How to add a challenge
+Start by cloning this repository. then: 
 1. Create a new _Folder_ on the _Solution.Tests_ to store your challanges;
 2. Create a new _Feature file_ and add your code scenarios there.
 3. Create a new _Steps file_ to implement tests for your scenarios. It should follow the convention: FeatureFileName(Challenge).Steps.cs
@@ -24,6 +25,9 @@ The Template solution is composed of the following projects:
 7. Create the necessary classes and implementation of boilerplate code on the _Challenges_ project (inside the previous created folder).
 8. Try the challenge project by implementing the necessary code, making the tests pass and then removing it (the code).
 9. DONE! :)
+
+After the challenges have been added, please update the readme-template with the necessary information and rename it to readme.md
+
 
 ## Ok but how do a Student execute it all?
 Please refer to the [General Information](https://github.com/CSharpWizardry/Challenge-Template/blob/master/GeneralInstructions.md) to learn about how to setup environment, code solutions and execute tests.
